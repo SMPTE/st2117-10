@@ -11,7 +11,7 @@ Please report issues via the repo [Issue Tracker](https://github.com/SMPTE/st211
 # SMPTE ST 2117-10
 Public CD of SMPTE ST 2117-10 - Mapping VC-6 into the MXF Generic Container
 
-Public Committee Draft was approved and posted to GitHub on September 8 2022
+Public Committee Draft was approved September 2, 2022 and posted to GitHub on September 8, 2022
 
 This material is work under development and shall not be referred to as a SMPTE Standard, Recommended Practice, or Engineering Guideline. It is distributed for review and comment; distribution does not constitute publication.
 
