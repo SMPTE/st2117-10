@@ -1,4 +1,4 @@
-# SMPTE ST 2117-10 - Mapping VC-6 into the MXF Generic Container
+# General
 
 _This repository is public._ 
 
@@ -6,7 +6,7 @@ Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONF
 
 ## Reporting issues
 
-Please report issues via the repo [Issue Tracker](https://github.com/SMPTE/st2117-10/issues) or at [31fs-chair@smpte.org](31fs-chair@smpte.org).
+Please report issues via the repo [Issue Tracker](https://github.com/SMPTE/st2117-10/issues) or at [31fs-chair@smpte.org](mailto:31fs-chair@smpte.org).
 
 # ST 2117-10
 Public CD of SMPTE ST 2117-10 - Mapping VC-6 into the MXF Generic Container
